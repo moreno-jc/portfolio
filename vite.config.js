@@ -8,6 +8,5 @@ export default defineConfig({
 		alias: {
             $components: Path.resolve('./src/components'),
 		},
-	},
-	base: '/portfolio/'
+	}
 });
