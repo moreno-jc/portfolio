@@ -1,6 +1,6 @@
 <script>
 import ExperienceItem from "$components/ExperienceItem.svelte"
-import Data from "$lib/Data.json"
+import Data from "$lib/data.json"
 
 let Experience = Data.Experience;
 </script>
