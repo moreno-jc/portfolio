@@ -1,0 +1,69 @@
+{
+    "name": "Jocelyn Moreno",
+    "yearsExperencie": "1",
+    "photoProfile": "/foto_Jocelyn.jpg",
+    "description": {
+        "experience1": "Desarrolladora Front End"
+    },
+    "socialNetworks": {
+        "LinkendIn": "https://www.linkedin.com/in/jocelyn-moreno-garay-5a0bb7226/",
+        "GitHub": "",
+        "Correo":"mailto:jocelyn.morenogaray@gmail.com"
+    },
+    "navItems": [
+        {
+            "title": "Experiencia",
+            "label": "experiencia",
+            "url": "/#experiencia"
+        },
+        {
+            "title": "Proyectos",
+            "label": "proyectos",
+            "url": "/#proyectos"
+        },
+        {
+            "title": "Sobre mí",
+            "label": "sobre-mi",
+            "url": "/#sobre-mi"
+        },
+        {
+            "title": "Contacto",
+            "label": "contacto",
+            "url": "mailto:miduga@gmail.com"
+        }
+    ],
+     "Experience" : [
+        {
+          "date": "Actualmente...",
+          "title": "Desarrolladora Web",
+          "company": "Instituto Nacional de Antropología e Historia (INAH)",
+          "description":"Responsable de la plataforma, componentes y utilidades para la creación y desarrollo de sitios web.",
+          "link": "https://www.inah.gob.mx/"
+        },
+        {
+          "date": "Feb 2023 - Nov 2023",
+          "title": "Full Stack Jr",
+          "company": "ARBEITAPP (ARB)",
+          "description":
+            "Responsable de la creación y desarrollo de software en ARB. Desarrollo de sistema de inventario y gestor de usuarios mediante tecnologías como JS, Boostrap, PHP, MySQL y  Apache",
+          "link": "https://www.linkedin.com/company/arbeitapp/"
+        }
+      ],
+    "Projects": [
+        {
+          "title": "Web Tarjetas Bancaria",
+          "description":"Diseño de página web promocional sobre tarjetas bancarias",
+          "link": "https://svgl.vercel.app/",
+          "github": "https://github.com/moreno-jc/website-React/tree/main",
+          "image": "",
+          "tags":["NEXT", "TAILWIND"]
+        },
+        {
+          "title": "Web Barberia",
+          "description": "Sistema de ventas y gestionamiento de usuario",
+          "link": "https://github.com/moreno-jc/barberShop",
+          "image": "",
+          "tags": []
+        }
+      ]
+}
