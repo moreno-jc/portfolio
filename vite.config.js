@@ -9,4 +9,5 @@ export default defineConfig({
             $components: Path.resolve('./src/components'),
 		},
 	},
+	base: '/portfolio/'
 });
